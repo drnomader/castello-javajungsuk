@@ -15,7 +15,7 @@ public class Exercise3_1 {
 		System.out.println('5' - '0');
 		System.out.println(c + 1);
 		System.out.println(++c);
-		System.out.println(c++);
+		System.out.println(c++); //후위연산자 주의
 		System.out.println(c);
 	}
 }
