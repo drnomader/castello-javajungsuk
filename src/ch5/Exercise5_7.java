@@ -1,7 +1,6 @@
 
 package ch5;
 
-//todo command line + logic
 public class Exercise5_7 {
 	public static void main(String[] args) {
 		if (args.length != 1) {

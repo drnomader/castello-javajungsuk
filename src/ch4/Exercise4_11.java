@@ -1,6 +1,5 @@
 package ch4;
 
-//todo 피보나치 수열
 public class Exercise4_11 {
 	public static void main(String[] args) {
 		int num1 = 1;

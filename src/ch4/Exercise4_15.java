@@ -1,6 +1,5 @@
 package ch4;
 
-//todo 회문수 구하기
 public class Exercise4_15 {
 	public static void main(String[] args) {
 		int number = 12321;

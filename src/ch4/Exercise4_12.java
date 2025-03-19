@@ -1,6 +1,5 @@
 package ch4;
 
-//todo 구구단 출력
 public class Exercise4_12 {
 	public static void main(String[] args) {
 		for (int i = 1; i <= 9; i++) {
