@@ -2,7 +2,7 @@ package ch6;
 
 public class Exercise6_4 {
 	public static void main(String args[]) {
-		Student s = new Student();
+		Student6_4 s = new Student6_4();
 		s.name = " ";
 		s.ban = 1;
 		s.no = 1;
@@ -15,7 +15,7 @@ public class Exercise6_4 {
 	}
 }
 
-class Student {
+class Student6_4 {
 	String name;
 	int ban;
 	int no;
