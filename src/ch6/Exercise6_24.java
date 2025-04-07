@@ -1,15 +1,14 @@
 package ch6;
 
-class Exercise6_24
-{
+class Exercise6_24 {
 	public static int abs(int value) {
-		return value >=0 ? value : -value;
+		return value >= 0 ? value : -value;
 	}
-	public static void main(String[] args)
-	{
+
+	public static void main(String[] args) {
 		int value = 5;
-		System.out.println(value+" :"+abs(value));
+		System.out.println(value + " : " + abs(value));
 		value = -10;
-		System.out.println(value+" :"+abs(value));
+		System.out.println(value + " : " + abs(value));
 	}
 }
