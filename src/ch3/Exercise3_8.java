@@ -15,7 +15,6 @@ public class Exercise3_8 {
 		float f2 = 0.1f;
 		double d = 0.1;
 
-
 		boolean result = (float) d == f2;
 
 		System.out.println("c = " + c);
