@@ -9,6 +9,7 @@ public class Exercise4_10 {
 			sum += num % 10;
 			num /= 10;
 		}
+
 		System.out.println("sum = " + sum);
 	}
 }
