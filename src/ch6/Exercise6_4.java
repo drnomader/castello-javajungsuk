@@ -10,9 +10,9 @@ public class Exercise6_4 {
 		s.eng = 60;
 		s.math = 76;
 
-		System.out.println(" :" + s.name);
-		System.out.println(" :" + s.getTotal());
-		System.out.println(" :" + s.getAverage());
+		System.out.println(" : " + s.name);
+		System.out.println(" : " + s.getTotal());
+		System.out.println(" : " + s.getAverage());
 	}
 }
 
