@@ -27,6 +27,7 @@ class Student6_4 {
 	int getTotal() {
 		return kor + eng + math;
 	}
+
 	float getAverage() {
 		return (int) (getTotal() / 3f * 10 + 0.5f) / 10f;
 	}
