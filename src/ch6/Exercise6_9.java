@@ -1,7 +1,6 @@
 package ch6;
 
-public class Exercise6_9 {
-}
+public class Exercise6_9 {}
 
 class Marine {
 
