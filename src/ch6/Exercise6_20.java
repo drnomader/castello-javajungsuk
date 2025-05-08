@@ -13,12 +13,14 @@ public class Exercise6_20 {
 		if (arr == null || arr.length == 0) {
 			return arr;
 		}
+
 		for (int i = 0; i < arr.length ;i++) {
 			int j = (int) (Math.random() * arr.length);
 			int tmp = arr[i];
 			arr[i] = arr[j];
 			arr[j] = tmp;
 		}
+
 		return arr;
 	}
 }
