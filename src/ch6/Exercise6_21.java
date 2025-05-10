@@ -14,6 +14,7 @@ class MyTv {
 	void turnOnOff() {
 		isPowerOn = !isPowerOn;
 	}
+
 	void volumeUp() {
 		if (volume < MAX_VOLUME) {
 			volume++;
