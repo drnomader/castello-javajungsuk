@@ -20,6 +20,7 @@ class MyTv {
 			volume++;
 		}
 	}
+
 	void volumeDown() {
 		if (volume > MIN_VOLUME) {
 			volume--;
