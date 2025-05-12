@@ -26,6 +26,7 @@ class MyTv {
 			volume--;
 		}
 	}
+
 	void channelUp() {
 		if (channel == MAX_CHANNEL) {
 			channel = MIN_CHANNEL;
