@@ -34,6 +34,7 @@ class MyTv {
 			channel++;
 		}
 	}
+
 	void channelDown() {
 		if (channel == MIN_CHANNEL) {
 			channel = MAX_CHANNEL;
