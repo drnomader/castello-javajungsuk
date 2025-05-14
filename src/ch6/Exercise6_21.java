@@ -42,7 +42,7 @@ class MyTv {
 			channel--;
 		}
 	}
-} // class MyTv
+}
 
 class Exercise6_21 {
 	public static void main(String args[]) {
