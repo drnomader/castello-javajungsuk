@@ -4,6 +4,7 @@ class Exercise6_22 {
 	public static void main(String[] args) {
 		String str = "123";
 		System.out.println(str + " ? " + isNumber(str));
+
 		str = "1234o";
 		System.out.println(str + " ? " + isNumber(str));
 	}
